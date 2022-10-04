@@ -1,13 +1,15 @@
 *, *::before, *::after {
     box-sizing: border-box;
-    font-family: Gotham Rounded, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: normal;
 }
 
 body {
     padding: 0;
     margin: 0;
-    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+
+    
 }
 
 .Calculator-grid {
